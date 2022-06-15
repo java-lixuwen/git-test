@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("meiguo");
         System.out.println("英国");
         System.out.println("菲律宾");
+        System.out.println("小日本子");
     }
 }
