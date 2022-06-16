@@ -35,4 +35,5 @@ gen
 .classpath
 .project
 
-!/.gitignore
+.gitignore
+
